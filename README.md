@@ -7,6 +7,7 @@
 |make_pdf|Make PDF file|
 |is_prime|Determine number is prime|
 |z_lang|Undeciable but recognizable z character|
+|dot_graph|Display picture using Graphviz|
 
 ## License
 
